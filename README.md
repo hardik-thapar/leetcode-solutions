@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Array
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Math
 |  |
 | ------- |
@@ -44,8 +46,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
