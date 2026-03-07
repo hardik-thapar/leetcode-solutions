@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -18,8 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0007-reverse-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
