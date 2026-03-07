@@ -7,7 +7,7 @@ public:
             char c = w[i];
             for(int j =1; j<strs.size();j++){
                 string q = strs[j];
-                if(i>q.length() || c!=q[i]){
+                if(i>=q.length() || c!=q[i]){
                     return ans;
                 }
             }
