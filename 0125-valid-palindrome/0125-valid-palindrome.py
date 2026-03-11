@@ -1,7 +1,10 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        w=''.join(s.lower())
-        res = ''.join([char for char in w if char.isalnum()])
+        res=[]
+        for char in s.lower():
+            c = ord(char)
+            if (c>47 and c<58) or (c>96 and c<123):
+                res.append(char)
         i=0
         j=len(res)-1
         while(i<j):
