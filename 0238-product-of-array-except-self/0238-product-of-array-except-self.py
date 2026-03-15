@@ -6,7 +6,7 @@ class Solution:
         for i in range(len(nums)):
             res[i]=pre
             pre*=nums[i]
-        for i in range(len(nums)):
-            res[len(nums)-1-i]*=post
-            post*=nums[len(nums)-1-i]
+        for i in range(len(nums)-1,-1,-1):
+            res[i]*=post
+            post*=nums[i]
         return res
