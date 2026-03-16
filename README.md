@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0075-sort-colors) |
