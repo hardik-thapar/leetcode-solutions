@@ -2,7 +2,6 @@ class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
         end=len(nums)
         st=0
-        m=0
         while(st<end):
             mid=int((st+end)/2)
             if nums[mid]==target:
