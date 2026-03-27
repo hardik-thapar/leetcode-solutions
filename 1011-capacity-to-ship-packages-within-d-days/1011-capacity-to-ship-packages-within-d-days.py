@@ -7,20 +7,18 @@ class Solution:
             mid=(st+end)//2
             load=mid
             count=1
-            t=0
+            tw=0
             for i in weights:
-            
-                if t+i>load:
+                
+                tw+=i
+                if tw>load:
                     count+=1
-                    t=i
-                else:
-                    t+=i
+                    tw=i
             if count<=days:
                 ans.append(load)
                 end=mid-1
-            else:
+
+            else: 
                 st=mid+1
         return min(ans)
-
-
-        
+            
