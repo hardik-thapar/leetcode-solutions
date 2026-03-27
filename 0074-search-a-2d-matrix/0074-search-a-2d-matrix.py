@@ -1,6 +1,6 @@
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
-        m=len(matrix) 
+        m=len(matrix)
         n=len(matrix[0])
         st=0
         end=m*n-1
@@ -12,5 +12,6 @@ class Solution:
                 return True
             elif matrix[row][col]<target:
                 st=mid+1
-            else: end=mid-1
+            else:
+                end=mid-1
         return False
