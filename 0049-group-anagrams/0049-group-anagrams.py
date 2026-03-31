@@ -1,14 +1,14 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        count={}
-        for i,word in enumerate(strs):
-            key=''.join(sorted(word))
-            if key not in count:
-                count[key]=[]
-            count[key].append(word)
-        l=[]
-        for i,j in count.items():
-            l.append(j)
-        return l
-       
+        freq={}
+        res=[]
+        for i, word in enumerate(strs):
+            w="".join(sorted(word))
+            if w not in freq:
+                freq[w]=[]
+            freq[w].append(word)
+        for i,j in freq.items():
+            res.append(j)
+        return res
+
         
