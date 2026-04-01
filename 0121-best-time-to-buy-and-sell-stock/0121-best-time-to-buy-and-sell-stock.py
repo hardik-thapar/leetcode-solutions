@@ -1,10 +1,15 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        buy=prices[0]
+        #min
+        m = prices[0]
         profit=0
-        for i in range(1,len(prices)):
-            num=prices[i]
-            cp = num-buy
-            profit = max(profit,cp)
-            buy=min(num,buy)
+        for today in range(1,len(prices)):
+            cp=prices[today]-m
+            profit=max(cp,profit)
+            m=min(prices[today],m)
         return profit
+
+
+
+
+        
