@@ -1,42 +1,27 @@
 class Solution {
     public boolean isValid(String s) {
-        List<Character> list = new ArrayList<>();
-        for (char c : s.toCharArray()){
-            if (c==')'){
-                if(list.isEmpty()){
-                    return false;
-                }
-                if(list.get(list.size()-1)!='('){
-                    return false;
-                }
-                list.remove(list.size()-1);
+        Deque<Character> stack = new ArrayDeque<>();
+        for(char c: s.toCharArray()){
+            if (c == '(' || c == '[' || c == '{'){
+                stack.push(c);
             }
-
-            else if (c=='}'){
-                if(list.isEmpty()){
-                    return false;
-                }
-                if(list.get(list.size()-1)!='{'){
-                    return false;
-                }
-                list.remove(list.size()-1);
-            }
-
-            else if (c==']'){
-                if(list.isEmpty()){
-                    return false;
-                }
-                if(list.get(list.size()-1)!='['){
-                    return false;
-                }
-                list.remove(list.size()-1);
-            }
-
             else{
-                list.add(c);
+                if (stack.isEmpty()) return false;
+                if(c==')'){
+                    if(stack.peek()!='(') return false;
+                    stack.pop();
+                }
+                else if(c=='}'){
+                    if(stack.peek()!='{') return false;
+                    stack.pop();
+                }
+                else{
+                    if(stack.peek()!='[') return false;
+                    stack.pop();
+                }
             }
         }
-    if (!list.isEmpty()) return false;
-    return true;
+        if(!stack.isEmpty()) return false;
+        return true;
     }
 }
