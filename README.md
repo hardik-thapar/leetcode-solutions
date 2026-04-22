@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1470-shuffle-the-array](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Math
