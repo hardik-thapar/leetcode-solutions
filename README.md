@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0509-fibonacci-number](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Trie
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0509-fibonacci-number](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -276,9 +278,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0645-set-mismatch) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
