@@ -15,7 +15,7 @@
  */
 class Solution {
     void postOrder(TreeNode root, List<Integer> list){
-        if(root == null) return;
+        if(root==null) return;
         postOrder(root.left, list);
         postOrder(root.right, list);
         list.add(root.val);
@@ -24,5 +24,4 @@ class Solution {
         List<Integer> list = new ArrayList<>();
         postOrder(root, list);
         return list;
-    }
-}
+}}
