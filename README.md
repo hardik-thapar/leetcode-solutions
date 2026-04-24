@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [2833-furthest-point-from-origin](https://github.com/hardik-thapar/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [2833-furthest-point-from-origin](https://github.com/hardik-thapar/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
