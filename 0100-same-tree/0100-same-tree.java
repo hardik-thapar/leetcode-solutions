@@ -14,16 +14,18 @@
  * }
  */
 class Solution {
-    public boolean dfs(TreeNode p, TreeNode q){
+    public boolean check(TreeNode p, TreeNode q){
         if(p==null && q==null) return true;
         if(p==null && q!=null) return false;
         if(p!=null && q==null) return false;
         if(p.val!=q.val) return false;
-        if(!dfs(p.left,q.left)) return false;
-        if(!dfs(p.right,q.right)) return false;
-        return true;
+        if(check(p.left,q.left) && check(p.right,q.right)) return true;
+        return false;
     }
     public boolean isSameTree(TreeNode p, TreeNode q) {
-        return dfs(p,q);
+        if(p==null && q==null) return true;
+        if(p==null && q!=null) return false;
+        if(p!=null && q==null) return false;
+        return check(p,q);
     }
 }
