@@ -28,7 +28,6 @@ class Solution {
         return;
     }
     public int kthSmallest(TreeNode root, int k) {
-        List<Integer> list = new ArrayList<>();
         inorder(root, k);
         return ans;
     }
