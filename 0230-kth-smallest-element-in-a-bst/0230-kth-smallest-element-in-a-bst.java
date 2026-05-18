@@ -14,16 +14,19 @@
  * }
  */
 class Solution {
-    public void bst(TreeNode root, List<Integer> list){
+    int count=0;
+    int min = 0;
+    public void bst(TreeNode root, int k){
         if(root==null) return;
-        bst(root.left, list);
-        list.add(root.val);
-        bst(root.right, list);
+        bst(root.left, k);
+        if(count>=k) return;
+        count++;
+        min = root.val;
+        bst(root.right, k);
         return;
     }
     public int kthSmallest(TreeNode root, int k) {
-        List<Integer> list = new ArrayList<>();
-        bst(root, list);
-        return list.get(k-1);
+        bst(root, k);
+        return min;
     }
 }
