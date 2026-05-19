@@ -23,10 +23,9 @@ class Solution {
         count++;
         min = root.val;
         bst(root.right, k);
-        return;
     }
     public int kthSmallest(TreeNode root, int k) {
-        bst(root, k);
+        bst(root,k);
         return min;
     }
 }
