@@ -15,15 +15,14 @@
  */
 class Solution {
     HashMap<Integer,Integer> map = new HashMap<>();
-    int preIndex = 0;
-
+    int preIndex=0;
     public TreeNode build(int[] preorder, int left, int right){
         if(left>right) return null;
-        int rootVal = preorder[preIndex++];
-        TreeNode root = new TreeNode(rootVal);
-        int mid = map.get(rootVal);
-        root.left = build(preorder,left,mid-1);
-        root.right = build(preorder,mid+1,right);
+        int val = preorder[preIndex++];
+        TreeNode root = new TreeNode(val);
+        int k = map.get(val);
+        root.left = build(preorder,left,k-1);
+        root.right = build(preorder,k+1,right);
         return root;
     }
     public TreeNode buildTree(int[] preorder, int[] inorder) {
