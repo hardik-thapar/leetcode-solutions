@@ -17,39 +17,39 @@ public class Codec {
         q.add(root);
         while(!q.isEmpty()){
             TreeNode curr = q.poll();
-            if(curr==null) res.append("null,");
+            if(curr==null) res.append("null"+",");
             else{
                 res.append(curr.val+",");
                 q.add(curr.left);
                 q.add(curr.right);
             }
+
         }
         return res.toString();
     }
 
     // Decodes your encoded data to tree.
-    int pre = 0;
     public TreeNode deserialize(String data) {
         if(data=="") return null;
+        String[] nodes = data.split(",");
+        TreeNode root = new TreeNode(Integer.parseInt(nodes[0]));
+
+        int pre = 0;
         Queue<TreeNode> q = new LinkedList<>();
-        String[] arr = data.split(",");
-        TreeNode root = new TreeNode(Integer.parseInt(arr[pre++]));
         q.add(root);
         while(!q.isEmpty()){
             TreeNode curr = q.poll();
-            if(!arr[pre].equals("null")){
-                curr.left = new TreeNode(Integer.parseInt(arr[pre]));
-                q.add(curr.left);
-            }
+
+            if(!nodes[pre+1].equals("null")) {curr.left = new TreeNode(Integer.parseInt(nodes[pre+1]));
+            q.add(curr.left); }
             pre++;
-            if(!arr[pre].equals("null")){
-                curr.right=new TreeNode(Integer.parseInt(arr[pre]));
-                q.add(curr.right);
-            }
+            if(!nodes[pre+1].equals("null")) {curr.right = new TreeNode(Integer.parseInt(nodes[pre+1]));
+            q.add(curr.right); }
             pre++;
         }
         return root;
     }
+    
 }
 
 // Your Codec object will be instantiated and called as such:
