@@ -1,34 +1,34 @@
 class Solution {
     public int findCircleNum(int[][] isConnected) {
+        int provinces = 0;
         int n = isConnected.length;
-        ArrayList<Integer>[] graph = new ArrayList[n];
-        boolean[] vis = new boolean[n];
+        ArrayList<Integer>[] adj = new ArrayList[n];
         for(int i=0;i<n;i++){
-            graph[i] = new ArrayList<>();
-            vis[i] = false;
+            adj[i] = new ArrayList<>();
         }
-        for(int i = 0; i< n; i++){
-            for(int j = 0; j< n; j++){
-                if((isConnected[i][j] == 1) && i!=j){
-                    graph[i].add(j);
+        for(int i=0;i<isConnected.length;i++){
+            for(int j=0;j<isConnected[0].length;j++){
+                if(isConnected[i][j]==1 && i!=j){
+                    adj[i].add(j);
                 }
             }
         }
-        int count = 0;
-        for(int i=0;i<n;i++){
-            if(vis[i]==false){
-                dfs(i,graph,vis);
-                count++;
+        boolean[] visted = new boolean[n];
+        for(int i=0; i<n;i++){
+            if(!visted[i]){
+                provinces++;
+                dfs(adj, i, visted);
             }
         }
-        return count;
+        return provinces;
     }
-    public void dfs(int start,ArrayList<Integer>[] graph, boolean[] vis){
-        if(vis[start]==false){
-            vis[start] = true;
-            for(int nei: graph[start]){
-                dfs(nei,graph,vis);
-            }
+
+        void dfs(ArrayList<Integer>[] adj, int i, boolean[] visted){
+           if(visted[i]) return;
+           visted[i] = true;
+           for(int nbr: adj[i]){
+            dfs(adj,nbr,visted);
+           }
+           return;
         }
     }
-}
