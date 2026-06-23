@@ -4,19 +4,24 @@ class Solution {
         boolean[] key = new boolean[n];
         Queue<Integer> q = new LinkedList<>();
         for(int x: rooms.get(0)){
-            q.add(x);
+            if(!key[x]){
+                key[x] = true;
+                q.add(x);
+            }
         }
         key[0] = true;
         // int level = 1;
         while(!q.isEmpty()){
             int node = q.poll();
-            key[node] = true;
+            // key[node] = true;
             for(int x: rooms.get(node)){
-            if(!key[x]) q.add(x);
+            if(!key[x]) {
+            key[x] = true;
+            q.add(x);
             }
 
         }
-
+        }
         for(boolean x: key){
             if(x==false) return false;
         }
