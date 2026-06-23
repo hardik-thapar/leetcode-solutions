@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0542-01-matrix](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0645-set-mismatch](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0695-max-area-of-island) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0542-01-matrix) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/hardik-thapar/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Stack
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0733-flood-fill) |
