@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1020-number-of-enclaves) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1791-find-center-of-star-graph](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -548,4 +551,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
