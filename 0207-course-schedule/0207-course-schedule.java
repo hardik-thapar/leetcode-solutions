@@ -5,31 +5,31 @@ class Solution {
         for(int i=0;i<n;i++){
             adj[i] = new ArrayList<>();
         }
-        boolean[] visted = new boolean[n];
-        boolean[] path = new boolean[n];
         for(int[] arr: prerequisites){
             int u = arr[0];
             int v = arr[1];
             adj[v].add(u);
         }
+        boolean[] visited = new boolean[n];
+        boolean[] path = new boolean[n];
         for(int i=0;i<n;i++){
-            if(!visted[i]){
-                if(dfs(adj,i,visted,path)) return false;
+            if(!visited[i]){
+                if(dfs(adj, visited, path, i)) return false;
             }
         }
         return true;
     }
 
-    public boolean dfs(ArrayList<Integer>[] adj, int node, boolean[] visited, boolean[] path){
+    public boolean dfs(ArrayList<Integer>[] adj, boolean[] visited,boolean[] path, int node){
         visited[node] = true;
         path[node] = true;
         for(int nbr: adj[node]){
             if(path[nbr]) return true;
             else if(!visited[nbr]){
-                if(dfs(adj,nbr,visited,path)) return true;
-        }
+                if(dfs(adj,visited,path,nbr)) return true;
+            }
         }
         path[node] = false;
         return false;
-     }
+    }
 }
