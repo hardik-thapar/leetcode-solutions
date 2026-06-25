@@ -3,46 +3,31 @@ class Solution {
         int m = mat.length;
         int n = mat[0].length;
         Queue<int[]> q = new LinkedList<>();
-
-        for(int a=0;a<m;a++){
-            for(int b=0;b<n;b++){
-                if(mat[a][b]==0){
-                    q.add(new int[]{a,b});
+        for(int i=0;i<m;i++){
+            for(int j = 0;j<n;j++){
+                if(mat[i][j]==0){
+                    q.add(new int[]{i,j});
                 }
-                if(mat[a][b]==1) mat[a][b]=-1;
-            }
-        }
+                else mat[i][j] = -1;}}
         int level = 1;
         while(!q.isEmpty()){
             int size = q.size();
             for(int x=0;x<size;x++){
-                int[] arr = q.poll();
-                int i = arr[0];
-                int j = arr[1];
-                // up
-                if(i>0 && mat[i-1][j]==-1){
-                    mat[i-1][j]=level;
-                    q.add(new int[]{i-1,j});
-                }
-                // down
-                if(i<m-1 && mat[i+1][j]==-1){
-                    mat[i+1][j]=level;
-                    q.add(new int[]{i+1,j});
-                }
-                // left
-                if(j>0 && mat[i][j-1]==-1){
-                    mat[i][j-1]=level;
-                    q.add(new int[]{i,j-1});
-                }
-                // right
-                if(j<n-1 && mat[i][j+1]==-1){
-                    mat[i][j+1]=level;
-                    q.add(new int[]{i,j+1});
+                int[] node = q.poll();
+                int i = node[0];
+                int j = node[1];
+                int[][] dir = {{-1,0},{1,0},{0,-1},{0,1}};
+                for(int[] d: dir){
+                    int nr = i+d[0];
+                    int nc = j+d[1];
+                    if(nr>=0 && nr<m && nc>=0 && nc<n && mat[nr][nc]==-1){
+                        mat[nr][nc] = level;
+                        q.add(new int[]{nr,nc});
+                    }
                 }
             }
             level++;
         }
         return mat;
-        }
-        
     }
+}
