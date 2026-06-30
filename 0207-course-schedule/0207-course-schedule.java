@@ -1,15 +1,16 @@
 class Solution {
     int cnt = 0;
-    public void dfs(ArrayList<Integer>[] adj, int node, boolean[] visited, boolean[] path){
+    public boolean dfs(ArrayList<Integer>[] adj, int node, boolean[] visited, boolean[] path){
         visited[node] = true;
         path[node] = true;
         for(int nbr: adj[node]){
-            if(path[nbr]) return;
-            if(!visited[nbr]) dfs(adj, nbr, visited, path);
+            if(path[nbr]) return true;
+            if(!visited[nbr]){
+                if(dfs(adj, nbr, visited, path)) return true;}
         }
         cnt++;
         path[node] = false;
-        return;
+        return false;
     }
     public boolean canFinish(int numCourses, int[][] prerequisites) {
         int n = numCourses;
@@ -25,9 +26,10 @@ class Solution {
         boolean[] visited = new boolean[n];
         boolean[] path = new boolean[n];
         for(int i=0;i<n;i++){
-            if(!visited[i]) dfs(adj,i,visited,path);
+            if(!visited[i]){
+                if(dfs(adj,i,visited,path)) return false;}   
         }
-        if(n==cnt) return true;
-        return false;
+    if(n==cnt) return true;
+    return false;
     }
 }
