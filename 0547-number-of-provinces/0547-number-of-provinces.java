@@ -1,34 +1,34 @@
 class Solution {
-    public int findCircleNum(int[][] isConnected) {
-        int provinces = 0;
-        int n = isConnected.length;
-        ArrayList<Integer>[] adj = new ArrayList[n];
-        for(int i=0;i<n;i++){
-            adj[i] = new ArrayList<>();
-        }
-        for(int i=0;i<isConnected.length;i++){
-            for(int j=0;j<isConnected[0].length;j++){
-                if(isConnected[i][j]==1 && i!=j){
-                    adj[i].add(j);
-                }
-            }
-        }
-        boolean[] visted = new boolean[n];
-        for(int i=0; i<n;i++){
-            if(!visted[i]){
-                provinces++;
-                dfs(adj, i, visted);
-            }
-        }
-        return provinces;
+
+    private int find(int node, int[] parent){
+        if(parent[node]==node) return node;
+        return parent[node] = find(parent[node], parent);
     }
 
-        void dfs(ArrayList<Integer>[] adj, int i, boolean[] visted){
-           if(visted[i]) return;
-           visted[i] = true;
-           for(int nbr: adj[i]){
-            dfs(adj,nbr,visted);
-           }
-           return;
+    public int findCircleNum(int[][] isConnected) {
+        int n = isConnected.length;
+        List<int[]> edges = new ArrayList<>();
+        for(int i=0; i<n; i++){
+            for(int j=0; j<n; j++){
+                if(i!=j && isConnected[i][j]==1) edges.add(new int[]{i,j});
+            }
         }
+        int[] parent = new int[n];
+        for(int i=0;i<n;i++){
+            parent[i] = i;
+        }
+
+        for(int[] edge: edges){
+            int u = edge[0];
+            int v = edge[1];
+            int leader1 = find(u, parent);
+            int leader2 = find(v, parent);
+            parent[leader2] = leader1;
+        }
+        int cnt = 0;
+        for(int i=0; i<n; i++){
+            if(parent[i] == i) cnt++;
+        }
+        return cnt;
     }
+}
