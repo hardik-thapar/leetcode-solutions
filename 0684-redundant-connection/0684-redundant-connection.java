@@ -15,7 +15,7 @@ class Solution {
             int v = edge[1];
             int leader1 = find(u, parent);
             int leader2 = find(v, parent);
-            if(leader1==leader2) return new int[]{u,v};
+            if(leader1==leader2) return edge;
             parent[leader2] = leader1;
         }
         return new int[]{-1,-1};
