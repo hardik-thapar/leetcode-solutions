@@ -18,6 +18,6 @@ class Solution {
             if(leader1==leader2) return edge;
             parent[leader2] = leader1;
         }
-        return new int[]{-1,-1};
+        return new int[0];
     }
 }
