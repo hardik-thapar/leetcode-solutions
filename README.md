@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
