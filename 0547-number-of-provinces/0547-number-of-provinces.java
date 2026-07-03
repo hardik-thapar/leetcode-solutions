@@ -1,34 +1,22 @@
 class Solution {
-
-    private int find(int node, int[] parent){
-        if(parent[node]==node) return node;
-        return parent[node] = find(parent[node], parent);
+    private void dfs(int[][] isConnected, int node, boolean[] visited){
+        visited[node] = true;
+        for(int i=0; i<isConnected.length; i++){
+            if(isConnected[node][i]==1 && !visited[i]) dfs(isConnected, i, visited);
+        }
+        return;
     }
-
     public int findCircleNum(int[][] isConnected) {
         int n = isConnected.length;
-        List<int[]> edges = new ArrayList<>();
+        boolean[] visited = new boolean[n];
+        int cnt=0;
         for(int i=0; i<n; i++){
-            for(int j=0; j<n; j++){
-                if(i!=j && isConnected[i][j]==1) edges.add(new int[]{i,j});
-            }
-        }
-        int[] parent = new int[n];
-        for(int i=0;i<n;i++){
-            parent[i] = i;
-        }
-
-        for(int[] edge: edges){
-            int u = edge[0];
-            int v = edge[1];
-            int leader1 = find(u, parent);
-            int leader2 = find(v, parent);
-            parent[leader2] = leader1;
-        }
-        int cnt = 0;
-        for(int i=0; i<n; i++){
-            if(parent[i] == i) cnt++;
+            if(!visited[i]){
+                cnt++;
+                dfs(isConnected, i, visited);
+                }
         }
         return cnt;
+
     }
 }
