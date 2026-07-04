@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1020-number-of-enclaves) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0802-find-eventual-safe-states](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0841-keys-and-rooms) |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1791-find-center-of-star-graph](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
@@ -579,4 +583,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
