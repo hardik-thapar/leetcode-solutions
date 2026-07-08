@@ -1,47 +1,46 @@
 class Solution {
-    class Pair {
+    private class Edge {
         int node;
-        int value;
-        Pair(int node, int value){
+        int cost;
+        Edge(int node, int cost){
             this.node = node;
-            this.value = value;
+            this.cost = cost;
         }
     }
     public int networkDelayTime(int[][] times, int n, int k) {
-        List<Pair>[] adj = new ArrayList[n+1];
+        // weighted directed graph -  use dijkstras
+        // we maintain a dist arr, and a pq to always get edge with the min cost, we create a custom class edge having u,v,cost;
+        
+        List<Edge>[] adj = new ArrayList[n+1];
         for(int i=1; i<n+1; i++){
             adj[i] = new ArrayList<>();
         }
         for(int[] edge: times){
-            int u = edge[0];
-            int v = edge[1];
-            int time = edge[2];
-            adj[u].add(new Pair(v,time));
+            adj[edge[0]].add(new Edge(edge[1],edge[2]));
         }
-
         int[] dist = new int[n+1];
         Arrays.fill(dist,Integer.MAX_VALUE);
 
-        // Priority queue -> {dist, node}
-        PriorityQueue<Pair> pq = new PriorityQueue<>((a,b)->Integer.compare(a.value,b.value));
+        PriorityQueue<Edge> pq = new PriorityQueue<>((a,b)->Integer.compare(a.cost,b.cost));
         dist[k] = 0;
-        pq.offer(new Pair(k,dist[k]));
-
+        pq.offer(new Edge(k,0));
         while(!pq.isEmpty()){
-            Pair curr = pq.poll();
-            if(curr.value > dist[curr.node]) continue;
-            for(Pair nbr: adj[curr.node]){
-                if(curr.value+nbr.value < dist[nbr.node]){
-                    dist[nbr.node] = curr.value + nbr.value;
-                    pq.offer(new Pair(nbr.node, dist[nbr.node]));
+            Edge curr = pq.poll();
+            if(curr.cost > dist[curr.node]) continue; //stale entry check
+            for(Edge nbr: adj[curr.node]){
+                if(curr.cost + nbr.cost < dist[nbr.node]){
+                    dist[nbr.node] = curr.cost+nbr.cost;
+                    pq.offer(new Edge(nbr.node,dist[nbr.node]));
                 }
             }
         }
-        int res = 0;
+        int res = -1;
         for(int i=1; i<n+1; i++){
             if(dist[i]==Integer.MAX_VALUE) return -1;
-            else res = Math.max(res, dist[i]);
+            res = Math.max(res,dist[i]);
         }
+        if(res==-1) return -1;
         return res;
+
     }
 }
