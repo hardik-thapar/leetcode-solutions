@@ -5,23 +5,30 @@ class Solution {
             if (c == '(' || c == '[' || c == '{'){
                 stack.push(c);
             }
+
+            else if (c == ')'){
+                if(stack.isEmpty()) return false;
+                if (!stack.peek().equals('(')) return false;
+                stack.pop();
+            }
+
+            else if (c == '}'){
+                if(stack.isEmpty()) return false;
+                if (!stack.peek().equals('{')) return false;
+                stack.pop();
+            }
+
+            else if (c == ']'){
+                if(stack.isEmpty()) return false;
+                if (!stack.peek().equals('[')) return false;
+                stack.pop();
+            }
+
             else{
-                if (stack.isEmpty()) return false;
-                if(c==')'){
-                    if(stack.peek()!='(') return false;
-                    stack.pop();
-                }
-                else if(c=='}'){
-                    if(stack.peek()!='{') return false;
-                    stack.pop();
-                }
-                else{
-                    if(stack.peek()!='[') return false;
-                    stack.pop();
-                }
+                return false;
             }
         }
-        if(!stack.isEmpty()) return false;
-        return true;
+        if(stack.isEmpty()) return true;
+        return false;
     }
 }
