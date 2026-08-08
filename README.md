@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0752-open-the-lock](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0752-open-the-lock) |
+| [0784-letter-case-permutation](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 | [1768-merge-strings-alternately](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2833-furthest-point-from-origin](https://github.com/hardik-thapar/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 ## Sorting
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0784-letter-case-permutation](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Memoization
 |  |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0784-letter-case-permutation](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
