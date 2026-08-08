@@ -1,30 +1,23 @@
 class Solution {
     private List<String> res = new ArrayList<>();
-    private char toogle(char x){
-        if(Character.isUpperCase(x)) return Character.toLowerCase(x);
-        return Character.toUpperCase(x);
-    }
-    private void dfs(int i, char[] word, StringBuffer curr){
+    private void dfs(int i, char[] word){
         if(i==word.length){
-            res.add(new String(curr));
+            res.add(new String(word));
             return;
         }
-        
         if(Character.isLetter(word[i])){
-            char t = toogle(word[i]);
-            curr.append(word[i]);
-            dfs(i+1, word, curr);
-            curr.deleteCharAt(curr.length()-1);
-            curr.append(t);
-            dfs(i+1, word, curr);
-            curr.deleteCharAt(curr.length()-1);
+            char original = word[i];
+            word[i] = Character.toUpperCase(word[i]);
+            dfs(i+1, word);
+            word[i] = Character.toLowerCase(word[i]);
+            dfs(i+1, word);
+            word[i] = original;
         }
-        else {dfs(i+1, word, curr.append(word[i]));
-        curr.deleteCharAt(curr.length()-1);}
+        else dfs(i+1, word);
         return;
     }
     public List<String> letterCasePermutation(String s) {
-        dfs(0, s.toCharArray(), new StringBuffer(""));
+        dfs(0, s.toCharArray());
         return res;
     }
 }
