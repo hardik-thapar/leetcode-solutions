@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0752-open-the-lock](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0752-open-the-lock) |
+| [1079-letter-tile-possibilities](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/hardik-thapar/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/hardik-thapar/leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0752-open-the-lock](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0784-letter-case-permutation](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0784-letter-case-permutation) |
+| [1079-letter-tile-possibilities](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [1768-merge-strings-alternately](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2833-furthest-point-from-origin](https://github.com/hardik-thapar/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 ## Sorting
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1079-letter-tile-possibilities](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [2833-furthest-point-from-origin](https://github.com/hardik-thapar/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0784-letter-case-permutation) |
+| [1079-letter-tile-possibilities](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
