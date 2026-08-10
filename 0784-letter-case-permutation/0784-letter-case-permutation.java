@@ -1,19 +1,19 @@
 class Solution {
-    private List<String> res = new ArrayList<>();
-    private void dfs(int i, char[] word){
-        if(i==word.length){
-            res.add(new String(word));
+    List<String> res = new ArrayList<>();
+    private void dfs(int i, char[] words){
+        if(i==words.length){
+            res.add(new String(words));
             return;
         }
-        if(Character.isLetter(word[i])){
-            char original = word[i];
-            word[i] = Character.toUpperCase(word[i]);
-            dfs(i+1, word);
-            word[i] = Character.toLowerCase(word[i]);
-            dfs(i+1, word);
-            word[i] = original;
+        if(Character.isLetter(words[i])){
+            char og = words[i];
+            words[i] = Character.toUpperCase(words[i]);
+            dfs(i+1, words);
+            words[i] = Character.toLowerCase(words[i]);
+            dfs(i+1, words);
+            words[i] = og;
         }
-        else dfs(i+1, word);
+        else dfs(i+1, words);
         return;
     }
     public List<String> letterCasePermutation(String s) {
