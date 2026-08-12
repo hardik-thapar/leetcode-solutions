@@ -1,7 +1,11 @@
 class Solution {
-    private boolean isPalindrome(String s){
-        if(s.equals(new StringBuilder(s).reverse().toString())) return true;
-        return false;
+    private boolean isPalindrome(String s, int i, int j){
+        while(i<=j){
+            if(word.charAt(i)!=word.charAt(j)) return false;
+            i++;
+            j--;
+        }
+        return true;
     }
     private String word;
     private int n;
@@ -13,7 +17,7 @@ class Solution {
         }
         for(int j=i; j<n; j++){
             String temp = word.substring(i, j+1);
-            if(isPalindrome(temp)){
+            if(isPalindrome(word, i, j)){
                 curr.add(new String(temp));
                 dfs(j+1, curr);
                 curr.remove(curr.size()-1);
