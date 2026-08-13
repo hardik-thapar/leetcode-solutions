@@ -1,33 +1,41 @@
 class Solution {
-    private int cnt;
-    private String res="";
-    private int num;
-    private char[] words = {'a','b','c'};
-    private void dfs(StringBuffer curr){
-        if(curr.length()==num){
-            cnt-=1;
-            if(cnt==0) res=new String(curr);
+    private char[] options = {'a','b','c'};
+    private int N;
+    private int K;
+    private String res = "";
+    private void dfs(StringBuilder curr){
+        if(curr.length()==N){
+            K--;
+            if(K==0) res = new String(curr);
             return;
         }
-        for(char ch: words){
-            if(curr.toString().equals("")){
-                curr.append(ch);
+        if(curr.toString().equals("")){
+            for(int i=0; i<3; i++){
+                curr.append(options[i]);
                 dfs(curr);
                 curr.deleteCharAt(curr.length()-1);
             }
-            else if(curr.charAt(curr.length()-1)!=ch){
-                curr.append(ch);
-                dfs(curr);
-                curr.deleteCharAt(curr.length()-1);
+            
+        }
+        
+        else {
+            char ch = curr.charAt(curr.length()-1);
+            for(int i=0; i<3; i++){
+                if(options[i]!=ch){
+                    curr.append(options[i]);
+                    dfs(curr);
+                    curr.deleteCharAt(curr.length()-1);
+                }
             }
         }
         return;
     }
+
     public String getHappyString(int n, int k) {
         if(n==0) return res;
-        cnt = k;
-        num = n;
-        dfs(new StringBuffer(""));
+        K=k;
+        N=n;
+        dfs(new StringBuilder(""));
         return res;
     }
 }
