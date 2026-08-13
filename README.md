@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0100-same-tree) |
@@ -658,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
