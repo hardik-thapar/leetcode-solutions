@@ -1,22 +1,28 @@
 class Solution {
-    private List<List<Integer>> ans = new ArrayList<>();
-    private void dfs(int i, int n, int k, List<Integer> curr){
-        if(i>n){
-            if(curr.size()==k) ans.add(new ArrayList<>(curr));
+    private int K;
+    private int N;
+    private List<List<Integer>> res = new ArrayList<>();
+    private void dfs(int idx, List<Integer> curr){
+        if(idx>N){
+            if(curr.size()==K) res.add(new ArrayList<>(curr));
             return;
         }
-        if(curr.size()==k){
-            ans.add(new ArrayList<>(curr));
+        if(curr.size()==K){
+            res.add(new ArrayList<>(curr));
             return;
         }
-        curr.add(i);
-        dfs(i+1, n, k, curr);
+
+        curr.add(idx);
+        dfs(idx+1, curr);
         curr.remove(curr.size()-1);
-        dfs(i+1, n, k, curr);
+        dfs(idx+1, curr);
         return;
+        
     }
     public List<List<Integer>> combine(int n, int k) {
-        dfs(1, n, k, new ArrayList<>());
-        return ans;
+        K=k;
+        N=n;
+        dfs(1, new ArrayList<>());
+        return res;
     }
 }
