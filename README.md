@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0079-word-search) |
