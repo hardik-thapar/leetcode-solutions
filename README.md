@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0198-house-robber) |
 | [0473-matchsticks-to-square](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0509-fibonacci-number](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0526-beautiful-arrangement](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
