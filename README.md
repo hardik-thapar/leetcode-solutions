@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0279-perfect-squares](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/hardik-thapar/leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0403-frog-jump](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0403-frog-jump) |
 | [0473-matchsticks-to-square](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0509-fibonacci-number](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0463-island-perimeter) |
@@ -696,4 +699,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
