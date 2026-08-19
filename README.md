@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0063-unique-paths-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0078-subsets) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0063-unique-paths-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0130-surrounded-regions) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
