@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0931-minimum-falling-path-sum](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1020-number-of-enclaves) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0931-minimum-falling-path-sum](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0931-minimum-falling-path-sum](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/hardik-thapar/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Stack
