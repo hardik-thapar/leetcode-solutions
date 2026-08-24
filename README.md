@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0542-01-matrix) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0473-matchsticks-to-square](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 | [1079-letter-tile-possibilities](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
@@ -728,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -739,4 +743,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
