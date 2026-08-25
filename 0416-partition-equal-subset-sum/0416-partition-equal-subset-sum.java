@@ -14,6 +14,7 @@ class Solution {
         for(int i=0; i<nums.length; i++){
             sum+= nums[i];
         }
+        if(sum%2!=0) return false;
         offset = sum;
         Boolean[][] memo = new Boolean[nums.length][(sum*2)+1];
         return dfs(0, 0, nums, memo);
