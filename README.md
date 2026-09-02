@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0682-baseball-game](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0684-redundant-connection](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0733-flood-fill) |
