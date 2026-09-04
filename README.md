@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2140-solving-questions-with-brainpower](https://github.com/hardik-thapar/leetcode-solutions/tree/master/2140-solving-questions-with-brainpower) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/hardik-thapar/leetcode-solutions/tree/master/2320-count-number-of-ways-to-place-houses) |
+| [2466-count-ways-to-build-good-strings](https://github.com/hardik-thapar/leetcode-solutions/tree/master/2466-count-ways-to-build-good-strings) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/hardik-thapar/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Stack
