@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2320-count-number-of-ways-to-place-houses](https://github.com/hardik-thapar/leetcode-solutions/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/hardik-thapar/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Stack
