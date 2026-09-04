@@ -5,7 +5,7 @@ class Solution {
         {7,9},
         {4,8},
         {0,3,9},
-        {-1},
+        {},
         {0,1,7},
         {2,6},
         {1,3},
@@ -14,7 +14,6 @@ class Solution {
     private static final int MOD = 1_000_000_007;
     private long dfs(int digit, int n, long[][] dp){
         if(n==0) return 1;
-        if(digit == 5) return 0;
         if(dp[digit][n]!=-1) return dp[digit][n];
         dp[digit][n] = 0;
         for(int nbr: grid[digit]){
