@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0542-01-matrix) |
+| [0605-can-place-flowers](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
