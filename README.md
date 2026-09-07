@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0860-lemonade-change](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0931-minimum-falling-path-sum](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0860-lemonade-change](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/hardik-thapar/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
