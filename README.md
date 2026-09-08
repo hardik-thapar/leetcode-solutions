@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0752-open-the-lock](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0784-letter-case-permutation](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0784-letter-case-permutation) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0860-lemonade-change) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -824,4 +828,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
