@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [0948-bag-of-tokens](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0931-minimum-falling-path-sum](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
+| [0948-bag-of-tokens](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0983-minimum-cost-for-tickets](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0948-bag-of-tokens](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1768-merge-strings-alternately](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/hardik-thapar/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/hardik-thapar/leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0860-lemonade-change) |
+| [0948-bag-of-tokens](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/hardik-thapar/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
