@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0752-open-the-lock](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0752-open-the-lock) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0605-can-place-flowers) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2574-left-and-right-sum-differences](https://github.com/hardik-thapar/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
