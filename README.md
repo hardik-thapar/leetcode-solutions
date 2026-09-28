@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1514-path-with-maximum-probability](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
@@ -381,12 +382,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2574-left-and-right-sum-differences](https://github.com/hardik-thapar/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Matrix
