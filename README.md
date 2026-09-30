@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1514-path-with-maximum-probability](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1584-min-cost-to-connect-all-points](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1710-maximum-units-on-a-truck](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0948-bag-of-tokens](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1710-maximum-units-on-a-truck](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/hardik-thapar/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [2140-solving-questions-with-brainpower](https://github.com/hardik-thapar/leetcode-solutions/tree/master/2140-solving-questions-with-brainpower) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/hardik-thapar/leetcode-solutions/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2466-count-ways-to-build-good-strings](https://github.com/hardik-thapar/leetcode-solutions/tree/master/2466-count-ways-to-build-good-strings) |
