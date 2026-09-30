@@ -516,12 +516,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1441-build-an-array-with-stack-operations](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Simulation
 |  |
 | ------- |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -771,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Segment Tree
 |  |
 | ------- |
