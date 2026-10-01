@@ -1,21 +1,30 @@
 class StockSpanner {
-    private List<Integer> stock;
-    private int len;
+    class Pair{
+        int val;
+        int span;
+        Pair(int val, int span){
+            this.val = val;
+            this.span = span;
+        }
+    }
+    private Deque<Pair> st;
     public StockSpanner() {
-        this.stock = new ArrayList<>();
-        this.len = 0;
+        this.st = new ArrayDeque<>();
     }
     
     public int next(int price) {
-        stock.add(price);
-        len++;
-        int res = 0;
-        for(int i=stock.size()-1; i>=0; i--){
-            if(stock.get(i)>price) return res;
-            res++;
+        if(st.isEmpty()){
+            st.push(new Pair(price, 1));
+            return 1;
         }
-        return res;
+        int span = 1;
+        while(!st.isEmpty() && price >= st.peek().val){
+            span += st.pop().span;
+        }
+        st.push(new Pair(price, span));
+        return span;
     }
+    
 }
 
 /**
