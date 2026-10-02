@@ -1,8 +1,7 @@
 class Solution {
     public int minGroups(int[][] intervals) {
-        // keep 2 arr, start and ends,
-        // sort them, use 2 pointer si and j, if start[i] >= end[j] -> i++; else j--;
-        // and after doing this at every step u check res as max of res, i - j
+        //frame -> the min of groups needed is the max number of overlapping intervals at any single point of time.
+        //to get this split the start times and end times arr -> sort them use two pointers on them
 
         int[] start = new int[intervals.length];
         int[] end = new int[intervals.length];
@@ -13,14 +12,16 @@ class Solution {
         Arrays.sort(start);
         Arrays.sort(end);
 
-        int i = 0;
-        int j = 0;
+        //run a while loop
+        int a = 0;
+        int b = 0;
         int res = 0;
-        while(i<=start.length-1){
-            if(start[i] <= end[j]) i++;
-            else j++;
-            res = Math.max(res, i - j);
+        while(a<start.length){
+            if(start[a] <= end[b]) a++;
+            else b++;
+            res = Math.max(res, a-b);
         }
+
         return res;
     }
 }
