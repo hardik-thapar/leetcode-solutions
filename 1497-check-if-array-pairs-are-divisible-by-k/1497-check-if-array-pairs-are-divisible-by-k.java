@@ -1,16 +1,14 @@
 class Solution {
     public boolean canArrange(int[] arr, int k) {
         int[] freq = new int[k];
-        for(int num: arr){
-            int x = ((num%k)+k)%k;
-            freq[x]++;
+        for(int i=0; i<arr.length; i++){
+            int num = ((arr[i] % k) + k)%k;
+            freq[num]++;
         }
         if(freq[0]%2!=0) return false;
-        for(int r=1; r<=k/2; r++){
-            if(r==k-r && freq[r]%2!=0) return false;
-            else {
-                if (freq[r]!=freq[k-r]) return false;
-            }
+        for(int i=1; i<=k/2; i++){
+            if(i==k-i && freq[i]%2!=0) return false;
+            else if(freq[i]!=freq[k-i]) return false;
         }
         return true;
     }
