@@ -1,18 +1,16 @@
 class Solution {
-    private int offset = 1000;
-    private int dfs(int idx, int target, int[] nums, int[][] memo){
+    private int res = 0;
+    private void dfs(int idx, int[] nums, int sum, int target){
         if(idx==nums.length){
-            if(target==0) return 1;
-            return 0;
+            if(sum==target) res++;
+            return;
         }
-        if(target<-1000 || target>1000) return 0;
-        if(memo[idx][target+offset]!=-1) return memo[idx][target+offset];
-        memo[idx][target+offset] = dfs(idx+1, target-nums[idx], nums, memo) + dfs(idx+1, target+nums[idx], nums, memo);
-        return memo[idx][target+offset];
+        dfs(idx+1, nums, sum+nums[idx], target);
+        dfs(idx+1, nums, sum-nums[idx], target);
+        return;
     }
     public int findTargetSumWays(int[] nums, int target) {
-        int[][] memo = new int[nums.length][2001];
-        for(int i=0; i<nums.length; i++) Arrays.fill(memo[i], -1);
-        return dfs(0, target, nums, memo);
+        dfs(0, nums, 0, target);
+        return res;
     }
 }
