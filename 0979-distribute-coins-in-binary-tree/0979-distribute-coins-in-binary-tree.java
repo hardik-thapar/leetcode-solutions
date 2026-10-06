@@ -20,7 +20,7 @@ class Solution {
         int left = dfs(root.left);
         int right = dfs(root.right);
         res += Math.abs(left) + Math.abs(right);
-        return root.val-1 + left + right;
+        return root.val - 1 +  left + right;
     }
     public int distributeCoins(TreeNode root) {
         dfs(root);
