@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1710-maximum-units-on-a-truck](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1514-path-with-maximum-probability](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0948-bag-of-tokens](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0948-bag-of-tokens) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1768-merge-strings-alternately](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/hardik-thapar/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/hardik-thapar/leetcode-solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/hardik-thapar/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-path-with-minimum-effort](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hardik-thapar/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2540-minimum-common-value](https://github.com/hardik-thapar/leetcode-solutions/tree/master/2540-minimum-common-value) |
