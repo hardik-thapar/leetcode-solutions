@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "array",
+    "name": "Array",
+    "tagId": "5"
+  },
+  "updatedAt": "2026-11-14T04:49:59.087Z",
+  "problems": [
+    {
+      "frontendId": "994",
+      "title": "Rotting Oranges",
+      "slug": "rotting-oranges",
+      "problemName": "0994-rotting-oranges",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotting-oranges/",
+      "folderPath": "0994-rotting-oranges/",
+      "readmePath": "0994-rotting-oranges/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0994-rotting-oranges.java",
+          "path": "0994-rotting-oranges/0994-rotting-oranges.java",
+          "sha": "65341f338bff066b72361014549e5ed8f468f11b",
+          "lastSyncedAt": "2026-11-14T04:49:59.087Z"
+        }
+      ]
+    }
+  ]
+}
