@@ -27,7 +27,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 1 |
+| [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
+| [Array](Topics/array/) | 2 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 1 |
+| [Knapsack Problem](Topics/knapsack-problem/) | 1 |
 | [Matrix](Topics/matrix/) | 1 |
 <!---LeetHub Summary End-->
