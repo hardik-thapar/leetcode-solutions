@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-15T08:29:33.008Z",
+  "updatedAt": "2026-11-15T16:12:10.962Z",
   "problems": [
     {
       "frontendId": "416",
@@ -24,6 +24,26 @@
           "path": "0416-partition-equal-subset-sum/0416-partition-equal-subset-sum.java",
           "sha": "8be6e9477a82680340d2dfc284c3fb752bfa07b4",
           "lastSyncedAt": "2026-11-15T08:29:33.008Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2742",
+      "title": "Painting the Walls",
+      "slug": "painting-the-walls",
+      "problemName": "2742-painting-the-walls",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/painting-the-walls/",
+      "folderPath": "2742-painting-the-walls/",
+      "readmePath": "2742-painting-the-walls/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2742-painting-the-walls.java",
+          "path": "2742-painting-the-walls/2742-painting-the-walls.java",
+          "sha": "8a2940bd3fa096ed2d94124d60c0bd68b549ca36",
+          "lastSyncedAt": "2026-11-15T16:12:10.962Z"
         }
       ]
     }
