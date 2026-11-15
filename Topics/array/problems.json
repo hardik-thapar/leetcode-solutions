@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T08:29:33.008Z",
+  "updatedAt": "2026-11-15T16:12:10.962Z",
   "problems": [
     {
       "frontendId": "416",
@@ -44,6 +44,26 @@
           "path": "0994-rotting-oranges/0994-rotting-oranges.java",
           "sha": "65341f338bff066b72361014549e5ed8f468f11b",
           "lastSyncedAt": "2026-11-14T04:49:59.087Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2742",
+      "title": "Painting the Walls",
+      "slug": "painting-the-walls",
+      "problemName": "2742-painting-the-walls",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/painting-the-walls/",
+      "folderPath": "2742-painting-the-walls/",
+      "readmePath": "2742-painting-the-walls/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2742-painting-the-walls.java",
+          "path": "2742-painting-the-walls/2742-painting-the-walls.java",
+          "sha": "8a2940bd3fa096ed2d94124d60c0bd68b549ca36",
+          "lastSyncedAt": "2026-11-15T16:12:10.962Z"
         }
       ]
     }
