@@ -5,32 +5,33 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 0 | 0 | 0 | 0 |
+| 1 | 0 | 0 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 0 days | 0 |
+| 1 days | 1 days | 1 |
 
 | Date | Problems |
 | --- | ---: |
-| - | 0 |
+| 2026-11-15 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| - | 0 | 0% |
+| Array | 1 | 100% |
+| Dynamic Programming | 1 | 100% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
-| [Array](Topics/array/) | 2 |
+| [Array](Topics/array/) | 3 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 1 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
 | [Matrix](Topics/matrix/) | 1 |
 <!---LeetHub Summary End-->
