@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "0-1-knapsack",
+    "name": "0-1 Knapsack",
+    "tagId": "88229"
+  },
+  "updatedAt": "2026-11-15T08:29:33.008Z",
+  "problems": [
+    {
+      "frontendId": "416",
+      "title": "Partition Equal Subset Sum",
+      "slug": "partition-equal-subset-sum",
+      "problemName": "0416-partition-equal-subset-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-equal-subset-sum/",
+      "folderPath": "0416-partition-equal-subset-sum/",
+      "readmePath": "0416-partition-equal-subset-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0416-partition-equal-subset-sum.java",
+          "path": "0416-partition-equal-subset-sum/0416-partition-equal-subset-sum.java",
+          "sha": "8be6e9477a82680340d2dfc284c3fb752bfa07b4",
+          "lastSyncedAt": "2026-11-15T08:29:33.008Z"
+        }
+      ]
+    }
+  ]
+}
