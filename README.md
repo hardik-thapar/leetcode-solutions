@@ -5,7 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 2 | 0 | 0 | 2 |
+| 3 | 0 | 1 | 2 |
 
 ## Activity
 
@@ -16,27 +16,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Date | Problems |
 | --- | ---: |
 | 2026-11-15 | 1 |
-| 2026-11-16 | 1 |
+| 2026-11-16 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 2 | 100% |
-| Dynamic Programming | 2 | 100% |
-| Binary Search | 1 | 50% |
-| Sorting | 1 | 50% |
+| Array | 3 | 100% |
+| Dynamic Programming | 3 | 100% |
+| Sorting | 2 | 67% |
+| Binary Search | 1 | 33% |
+| Greedy | 1 | 33% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
-| [Array](Topics/array/) | 4 |
+| [Array](Topics/array/) | 5 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
+| [Greedy](Topics/greedy/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
 | [Matrix](Topics/matrix/) | 1 |
-| [Sorting](Topics/sorting/) | 1 |
+| [Sorting](Topics/sorting/) | 2 |
 <!---LeetHub Summary End-->
