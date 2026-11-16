@@ -33,12 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Topic | Problems |
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
-| [Array](Topics/array/) | 5 |
+| [Array](Topics/array/) | 6 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 4 |
 | [Greedy](Topics/greedy/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
 | [Matrix](Topics/matrix/) | 1 |
+| [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Sorting](Topics/sorting/) | 2 |
 <!---LeetHub Summary End-->
