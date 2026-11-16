@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-16T06:28:53.210Z",
+  "updatedAt": "2026-11-16T06:29:10.172Z",
   "problems": [
     {
       "frontendId": "416",
@@ -43,7 +43,7 @@
           "filename": "0435-non-overlapping-intervals.java",
           "path": "0435-non-overlapping-intervals/0435-non-overlapping-intervals.java",
           "sha": "0ea68b78d0fbeac35eee40a91cfe1bb6b3353553",
-          "lastSyncedAt": "2026-11-16T06:28:53.210Z"
+          "lastSyncedAt": "2026-11-16T06:29:10.172Z"
         }
       ]
     },
