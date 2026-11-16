@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "prefix-sum",
+    "name": "Prefix Sum",
+    "tagId": "61068"
+  },
+  "updatedAt": "2026-11-16T06:52:10.981Z",
+  "problems": [
+    {
+      "frontendId": "238",
+      "title": "Product of Array Except Self",
+      "slug": "product-of-array-except-self",
+      "problemName": "0238-product-of-array-except-self",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-array-except-self/",
+      "folderPath": "0238-product-of-array-except-self/",
+      "readmePath": "0238-product-of-array-except-self/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0238-product-of-array-except-self.java",
+          "path": "0238-product-of-array-except-self/0238-product-of-array-except-self.java",
+          "sha": "961773f5b5efbecf0349bde715b52fd5a37fbc52",
+          "lastSyncedAt": "2026-11-16T06:52:10.981Z"
+        }
+      ]
+    }
+  ]
+}
