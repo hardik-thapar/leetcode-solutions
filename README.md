@@ -5,7 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 3 | 0 | 1 | 2 |
+| 4 | 1 | 1 | 2 |
 
 ## Activity
 
@@ -16,17 +16,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Date | Problems |
 | --- | ---: |
 | 2026-11-15 | 1 |
-| 2026-11-16 | 2 |
+| 2026-11-16 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 3 | 100% |
-| Dynamic Programming | 3 | 100% |
-| Sorting | 2 | 67% |
-| Binary Search | 1 | 33% |
-| Greedy | 1 | 33% |
+| Array | 3 | 75% |
+| Dynamic Programming | 3 | 75% |
+| Sorting | 2 | 50% |
+| Binary Search | 1 | 25% |
+| Greedy | 1 | 25% |
+| Hash Table | 1 | 25% |
+| String | 1 | 25% |
 
 ## Topics
 
@@ -38,8 +40,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 4 |
 | [Greedy](Topics/greedy/) | 1 |
+| [Hash Table](Topics/hash-table/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Sorting](Topics/sorting/) | 2 |
+| [String](Topics/string/) | 1 |
 <!---LeetHub Summary End-->
