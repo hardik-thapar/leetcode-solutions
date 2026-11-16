@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String",
+    "tagId": "10"
+  },
+  "updatedAt": "2026-11-16T12:29:43.564Z",
+  "problems": [
+    {
+      "frontendId": "2062",
+      "title": "Count Vowel Substrings of a String",
+      "slug": "count-vowel-substrings-of-a-string",
+      "problemName": "2062-count-vowel-substrings-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-vowel-substrings-of-a-string/",
+      "folderPath": "2062-count-vowel-substrings-of-a-string/",
+      "readmePath": "2062-count-vowel-substrings-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2062-count-vowel-substrings-of-a-string.java",
+          "path": "2062-count-vowel-substrings-of-a-string/2062-count-vowel-substrings-of-a-string.java",
+          "sha": "6170ba03a821424457b75b0b4c3727eb9d229936",
+          "lastSyncedAt": "2026-11-16T12:29:43.564Z"
+        }
+      ]
+    }
+  ]
+}
