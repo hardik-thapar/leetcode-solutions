@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "binary-search",
+    "name": "Binary Search",
+    "tagId": "11"
+  },
+  "updatedAt": "2026-11-16T04:37:09.468Z",
+  "problems": [
+    {
+      "frontendId": "1235",
+      "title": "Maximum Profit in Job Scheduling",
+      "slug": "maximum-profit-in-job-scheduling",
+      "problemName": "1235-maximum-profit-in-job-scheduling",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-profit-in-job-scheduling/",
+      "folderPath": "1235-maximum-profit-in-job-scheduling/",
+      "readmePath": "1235-maximum-profit-in-job-scheduling/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1235-maximum-profit-in-job-scheduling.java",
+          "path": "1235-maximum-profit-in-job-scheduling/1235-maximum-profit-in-job-scheduling.java",
+          "sha": "5bd15ec36b6d13afeee40d659b61dd3da49f0ca1",
+          "lastSyncedAt": "2026-11-16T04:37:09.468Z"
+        }
+      ]
+    }
+  ]
+}
