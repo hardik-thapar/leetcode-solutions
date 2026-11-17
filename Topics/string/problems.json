@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-16T12:29:43.564Z",
+  "updatedAt": "2026-11-17T04:32:10.993Z",
   "problems": [
+    {
+      "frontendId": "1639",
+      "title": "Number of Ways to Form a Target String Given a Dictionary",
+      "slug": "number-of-ways-to-form-a-target-string-given-a-dictionary",
+      "problemName": "1639-number-of-ways-to-form-a-target-string-given-a-dictionary",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/",
+      "folderPath": "1639-number-of-ways-to-form-a-target-string-given-a-dictionary/",
+      "readmePath": "1639-number-of-ways-to-form-a-target-string-given-a-dictionary/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1639-number-of-ways-to-form-a-target-string-given-a-dictionary.java",
+          "path": "1639-number-of-ways-to-form-a-target-string-given-a-dictionary/1639-number-of-ways-to-form-a-target-string-given-a-dictionary.java",
+          "sha": "cfd4d33192f4ae76f2c11988446228f2cb06fe6f",
+          "lastSyncedAt": "2026-11-17T04:32:10.993Z"
+        }
+      ]
+    },
     {
       "frontendId": "2062",
       "title": "Count Vowel Substrings of a String",
