@@ -5,45 +5,46 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 4 | 1 | 1 | 2 |
+| 5 | 1 | 1 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 2 days | 2 |
+| 3 days | 3 days | 3 |
 
 | Date | Problems |
 | --- | ---: |
 | 2026-11-15 | 1 |
 | 2026-11-16 | 3 |
+| 2026-11-17 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 3 | 75% |
-| Dynamic Programming | 3 | 75% |
-| Sorting | 2 | 50% |
-| Binary Search | 1 | 25% |
-| Greedy | 1 | 25% |
-| Hash Table | 1 | 25% |
-| String | 1 | 25% |
+| Array | 4 | 80% |
+| Dynamic Programming | 4 | 80% |
+| Sorting | 2 | 40% |
+| String | 2 | 40% |
+| Binary Search | 1 | 20% |
+| Greedy | 1 | 20% |
+| Hash Table | 1 | 20% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
-| [Array](Topics/array/) | 6 |
+| [Array](Topics/array/) | 7 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 5 |
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Sorting](Topics/sorting/) | 2 |
-| [String](Topics/string/) | 1 |
+| [String](Topics/string/) | 2 |
 <!---LeetHub Summary End-->
