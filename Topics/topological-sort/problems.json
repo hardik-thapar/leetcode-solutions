@@ -5,7 +5,7 @@
     "name": "Topological Sort",
     "tagId": "26"
   },
-  "updatedAt": "2026-11-21T11:08:53.794Z",
+  "updatedAt": "2026-11-21T11:17:15.110Z",
   "problems": [
     {
       "frontendId": "207",
@@ -24,6 +24,26 @@
           "path": "0207-course-schedule/0207-course-schedule.java",
           "sha": "027c4d743c7f4515ff1534ecb19ceae8b0bcc0f5",
           "lastSyncedAt": "2026-11-21T11:08:53.794Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "210",
+      "title": "Course Schedule II",
+      "slug": "course-schedule-ii",
+      "problemName": "0210-course-schedule-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii/",
+      "folderPath": "0210-course-schedule-ii/",
+      "readmePath": "0210-course-schedule-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0210-course-schedule-ii.java",
+          "path": "0210-course-schedule-ii/0210-course-schedule-ii.java",
+          "sha": "0d01a7355cebbe285e208f35e2808f373d921c67",
+          "lastSyncedAt": "2026-11-21T11:17:15.110Z"
         }
       ]
     }
