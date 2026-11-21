@@ -5,7 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 6 | 1 | 2 | 3 |
+| 7 | 2 | 2 | 3 |
 
 ## Activity
 
@@ -18,20 +18,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-11-15 | 1 |
 | 2026-11-16 | 3 |
 | 2026-11-17 | 1 |
-| 2026-11-21 | 1 |
+| 2026-11-21 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 5 | 83% |
-| Dynamic Programming | 4 | 67% |
-| Sorting | 3 | 50% |
-| Greedy | 2 | 33% |
-| String | 2 | 33% |
-| Binary Search | 1 | 17% |
-| Counting | 1 | 17% |
-| Hash Table | 1 | 17% |
+| Array | 5 | 71% |
+| Dynamic Programming | 5 | 71% |
+| Sorting | 3 | 43% |
+| Greedy | 2 | 29% |
+| String | 2 | 29% |
+| Binary Search | 1 | 14% |
+| Counting | 1 | 14% |
+| Hash Table | 1 | 14% |
+| Math | 1 | 14% |
+| Memoization | 1 | 14% |
 
 ## Topics
 
@@ -44,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Counting](Topics/counting/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 5 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 6 |
 | [Graph Theory](Topics/graph/) | 2 |
 | [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/hash-table/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
+| [Math](Topics/math/) | 1 |
 | [Matrix](Topics/matrix/) | 1 |
+| [Memoization](Topics/memoization/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Sorting](Topics/sorting/) | 3 |
 | [String](Topics/string/) | 2 |
