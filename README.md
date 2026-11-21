@@ -38,11 +38,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
 | [Array](Topics/array/) | 7 |
 | [Binary Search](Topics/binary-search/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 2 |
-| [Depth-First Search](Topics/depth-first-search/) | 1 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 3 |
+| [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 5 |
-| [Graph Theory](Topics/graph/) | 1 |
+| [Graph Theory](Topics/graph/) | 2 |
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
@@ -50,5 +50,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Sorting](Topics/sorting/) | 2 |
 | [String](Topics/string/) | 2 |
-| [Topological Sort](Topics/topological-sort/) | 1 |
+| [Topological Sort](Topics/topological-sort/) | 2 |
 <!---LeetHub Summary End-->
