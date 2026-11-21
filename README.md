@@ -5,7 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 8 | 2 | 3 | 3 |
+| 9 | 2 | 4 | 3 |
 
 ## Activity
 
@@ -18,22 +18,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-11-15 | 1 |
 | 2026-11-16 | 3 |
 | 2026-11-17 | 1 |
-| 2026-11-21 | 3 |
+| 2026-11-21 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 6 | 75% |
-| Dynamic Programming | 5 | 63% |
-| Sorting | 4 | 50% |
-| Greedy | 3 | 38% |
-| String | 2 | 25% |
-| Binary Search | 1 | 13% |
-| Counting | 1 | 13% |
-| Hash Table | 1 | 13% |
-| Math | 1 | 13% |
-| Memoization | 1 | 13% |
+| Array | 6 | 67% |
+| Dynamic Programming | 6 | 67% |
+| Sorting | 4 | 44% |
+| Greedy | 3 | 33% |
+| String | 3 | 33% |
+| Two Pointers | 2 | 22% |
+| Binary Search | 1 | 11% |
+| Counting | 1 | 11% |
+| Hash Table | 1 | 11% |
+| Manacher | 1 | 11% |
 
 ## Topics
 
@@ -46,18 +46,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Counting](Topics/counting/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 6 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 7 |
 | [Graph Theory](Topics/graph/) | 2 |
 | [Greedy](Topics/greedy/) | 3 |
 | [Hash Table](Topics/hash-table/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
+| [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 1 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Sorting](Topics/sorting/) | 4 |
-| [String](Topics/string/) | 2 |
+| [String](Topics/string/) | 3 |
 | [Timsort](Topics/timsort/) | 1 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
-| [Two Pointers](Topics/two-pointers/) | 1 |
+| [Two Pointers](Topics/two-pointers/) | 2 |
 <!---LeetHub Summary End-->
