@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-17T04:32:10.993Z",
+  "updatedAt": "2026-11-21T12:38:20.792Z",
   "problems": [
     {
       "frontendId": "238",
@@ -64,6 +64,26 @@
           "path": "0435-non-overlapping-intervals/0435-non-overlapping-intervals.java",
           "sha": "0ea68b78d0fbeac35eee40a91cfe1bb6b3353553",
           "lastSyncedAt": "2026-11-16T06:29:10.172Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "945",
+      "title": "Minimum Increment to Make Array Unique",
+      "slug": "minimum-increment-to-make-array-unique",
+      "problemName": "0945-minimum-increment-to-make-array-unique",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-increment-to-make-array-unique/",
+      "folderPath": "0945-minimum-increment-to-make-array-unique/",
+      "readmePath": "0945-minimum-increment-to-make-array-unique/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0945-minimum-increment-to-make-array-unique.java",
+          "path": "0945-minimum-increment-to-make-array-unique/0945-minimum-increment-to-make-array-unique.java",
+          "sha": "f8435b113288aa7309b4a4ed35a79f0fd7973adf",
+          "lastSyncedAt": "2026-11-21T12:38:20.792Z"
         }
       ]
     },
