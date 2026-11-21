@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-17T04:32:10.993Z",
+  "updatedAt": "2026-11-21T12:52:31.545Z",
   "problems": [
     {
       "frontendId": "416",
@@ -44,6 +44,26 @@
           "path": "0435-non-overlapping-intervals/0435-non-overlapping-intervals.java",
           "sha": "0ea68b78d0fbeac35eee40a91cfe1bb6b3353553",
           "lastSyncedAt": "2026-11-16T06:29:10.172Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1137",
+      "title": "N-th Tribonacci Number",
+      "slug": "n-th-tribonacci-number",
+      "problemName": "1137-n-th-tribonacci-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/n-th-tribonacci-number/",
+      "folderPath": "1137-n-th-tribonacci-number/",
+      "readmePath": "1137-n-th-tribonacci-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1137-n-th-tribonacci-number.java",
+          "path": "1137-n-th-tribonacci-number/1137-n-th-tribonacci-number.java",
+          "sha": "aa9db6af6e1239c373666c451d92be373c0f9c0b",
+          "lastSyncedAt": "2026-11-21T12:52:31.545Z"
         }
       ]
     },
