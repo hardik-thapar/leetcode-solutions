@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-21T12:38:20.792Z",
+  "updatedAt": "2026-11-21T13:02:41.460Z",
   "problems": [
     {
       "frontendId": "435",
@@ -24,6 +24,26 @@
           "path": "0435-non-overlapping-intervals/0435-non-overlapping-intervals.java",
           "sha": "0ea68b78d0fbeac35eee40a91cfe1bb6b3353553",
           "lastSyncedAt": "2026-11-16T06:29:10.172Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "881",
+      "title": "Boats to Save People",
+      "slug": "boats-to-save-people",
+      "problemName": "0881-boats-to-save-people",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/boats-to-save-people/",
+      "folderPath": "0881-boats-to-save-people/",
+      "readmePath": "0881-boats-to-save-people/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0881-boats-to-save-people.java",
+          "path": "0881-boats-to-save-people/0881-boats-to-save-people.java",
+          "sha": "369788c40e258bb92952b380193a203943a2a9df",
+          "lastSyncedAt": "2026-11-21T13:02:41.460Z"
         }
       ]
     },
