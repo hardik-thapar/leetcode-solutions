@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-21T13:02:41.460Z",
+  "updatedAt": "2026-11-22T08:14:03.558Z",
   "problems": [
     {
       "frontendId": "238",
@@ -64,6 +64,26 @@
           "path": "0435-non-overlapping-intervals/0435-non-overlapping-intervals.java",
           "sha": "0ea68b78d0fbeac35eee40a91cfe1bb6b3353553",
           "lastSyncedAt": "2026-11-16T06:29:10.172Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "503",
+      "title": "Next Greater Element II",
+      "slug": "next-greater-element-ii",
+      "problemName": "0503-next-greater-element-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-ii/",
+      "folderPath": "0503-next-greater-element-ii/",
+      "readmePath": "0503-next-greater-element-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0503-next-greater-element-ii.java",
+          "path": "0503-next-greater-element-ii/0503-next-greater-element-ii.java",
+          "sha": "9708cb86dbdd10a342d3467c44debe6d22221efe",
+          "lastSyncedAt": "2026-11-22T08:14:03.558Z"
         }
       ]
     },
