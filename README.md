@@ -41,20 +41,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Topic | Problems |
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
-| [Array](Topics/array/) | 10 |
+| [Array](Topics/array/) | 11 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 3 |
 | [Counting](Topics/counting/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 7 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 8 |
 | [Graph Theory](Topics/graph/) | 2 |
 | [Greedy](Topics/greedy/) | 3 |
 | [Hash Table](Topics/hash-table/) | 1 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 1 |
-| [Matrix](Topics/matrix/) | 1 |
+| [Matrix](Topics/matrix/) | 2 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
