@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-16T12:29:43.564Z",
+  "updatedAt": "2026-11-25T13:15:08.563Z",
   "problems": [
+    {
+      "frontendId": "560",
+      "title": "Subarray Sum Equals K",
+      "slug": "subarray-sum-equals-k",
+      "problemName": "0560-subarray-sum-equals-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-sum-equals-k/",
+      "folderPath": "0560-subarray-sum-equals-k/",
+      "readmePath": "0560-subarray-sum-equals-k/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0560-subarray-sum-equals-k.java",
+          "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.java",
+          "sha": "d02465af8e540fc10eff3c2003a5945d7a5d52c2",
+          "lastSyncedAt": "2026-11-25T13:15:08.563Z"
+        }
+      ]
+    },
     {
       "frontendId": "2062",
       "title": "Count Vowel Substrings of a String",
