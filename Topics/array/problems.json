@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-22T08:14:03.558Z",
+  "updatedAt": "2026-11-25T04:28:25.768Z",
   "problems": [
+    {
+      "frontendId": "64",
+      "title": "Minimum Path Sum",
+      "slug": "minimum-path-sum",
+      "problemName": "0064-minimum-path-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-path-sum/",
+      "folderPath": "0064-minimum-path-sum/",
+      "readmePath": "0064-minimum-path-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0064-minimum-path-sum.java",
+          "path": "0064-minimum-path-sum/0064-minimum-path-sum.java",
+          "sha": "fae521c298ed7d11ead75bd8ed9c478c738df12c",
+          "lastSyncedAt": "2026-11-25T04:28:25.768Z"
+        }
+      ]
+    },
     {
       "frontendId": "238",
       "title": "Product of Array Except Self",
