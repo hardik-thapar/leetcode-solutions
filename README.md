@@ -5,13 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 10 | 2 | 5 | 3 |
+| 11 | 2 | 6 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 3 days | 5 |
+| 1 days | 3 days | 6 |
 
 | Date | Problems |
 | --- | ---: |
@@ -20,28 +20,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-11-17 | 1 |
 | 2026-11-21 | 4 |
 | 2026-11-22 | 1 |
+| 2026-11-25 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 7 | 70% |
-| Dynamic Programming | 6 | 60% |
-| Sorting | 4 | 40% |
-| Greedy | 3 | 30% |
-| String | 3 | 30% |
-| Two Pointers | 2 | 20% |
-| Binary Search | 1 | 10% |
-| Counting | 1 | 10% |
-| Hash Table | 1 | 10% |
-| Manacher | 1 | 10% |
+| Array | 8 | 73% |
+| Dynamic Programming | 6 | 55% |
+| Sorting | 4 | 36% |
+| Greedy | 3 | 27% |
+| String | 3 | 27% |
+| Hash Table | 2 | 18% |
+| Two Pointers | 2 | 18% |
+| Binary Search | 1 | 9% |
+| Counting | 1 | 9% |
+| Manacher | 1 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
-| [Array](Topics/array/) | 11 |
+| [Array](Topics/array/) | 12 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 3 |
 | [Counting](Topics/counting/) | 1 |
@@ -50,14 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Dynamic Programming](Topics/dynamic-programming/) | 8 |
 | [Graph Theory](Topics/graph/) | 2 |
 | [Greedy](Topics/greedy/) | 3 |
-| [Hash Table](Topics/hash-table/) | 1 |
+| [Hash Table](Topics/hash-table/) | 2 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 1 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 1 |
+| [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Sorting](Topics/sorting/) | 4 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 3 |
